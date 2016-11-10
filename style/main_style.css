@@ -1,0 +1,19 @@
+body{
+	text-align: center;
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#C4F1FF), to(#FFFFFF));
+	height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1{
+	padding-top: 1em;
+	font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+	font-size: 10em;
+}
+
+h3{
+	font-style: italic;
+	padding-bottom: 20px;
+}
